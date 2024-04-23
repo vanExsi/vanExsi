@@ -1,4 +1,14 @@
+<div align="center">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
+
 # Привет, я Xpanutel или просто Илья 👋
+
+<div align="center">
+  <a href="https://t.me/xpanitej" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
 ## ⚡ О себе
 Приветствую! Меня зовут Илья, и я начинающий frontend разработчик. 
@@ -20,6 +30,7 @@
 - [VKontacte](https://vk.com/ilyushka.polyanskiy) 🌟
 - [Telegram](https://t.me/xpanitej) 💬
 
+<h3 align="left">🛠 Технологии:</h3>
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
