@@ -8,6 +8,10 @@
   <a href="https://t.me/xpanitej" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+  
+  <a href="https://vk.com/ilyushka.polyanskiy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=VK&logo=vk&label=&color=4A76A8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo"  />
+  </a>
 </div>
 
 ## ⚡ О себе
@@ -25,10 +29,6 @@
 - **Фреймворки**: Vue.js
 - **Серверная разработка**: Node.js, SQL, MySQL, Express.js
 - **Инструменты и технологии**: Git, npm
-
-## Социальные сети
-- [VKontakte](https://vk.com/ilyushka.polyanskiy) <img src="https://img.shields.io/static/v1?message=VK&logo=vk&label=&color=4A76A8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="VK logo"  />
-- [Telegram](https://t.me/xpanitej) <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Telegram logo"  />
 
 <h3 align="left">🛠 Технологии:</h3>
 <div align="center">  
