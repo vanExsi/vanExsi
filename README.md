@@ -27,8 +27,8 @@
 - **Инструменты и технологии**: Git, npm
 
 ## Социальные сети
-- [VKontacte](https://vk.com/ilyushka.polyanskiy) 🌟
-- [Telegram](https://t.me/xpanitej) 💬
+- [VKontakte](https://vk.com/ilyushka.polyanskiy) <img src="https://img.shields.io/static/v1?message=VK&logo=vk&label=&color=4A76A8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="VK logo"  />
+- [Telegram](https://t.me/xpanitej) <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Telegram logo"  />
 
 <h3 align="left">🛠 Технологии:</h3>
 <div align="center">  
