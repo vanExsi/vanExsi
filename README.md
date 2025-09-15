@@ -2,56 +2,54 @@
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-# Привет, я _cas_per_ или просто Илья 👋
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Ilya
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 <div align="center">
-  <a href="https://t.me/xpanitej" target="_blank">
+  <a href="https://t.me/vanExsi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
   
-  <a href="https://vk.com/ilyushka.polyanskiy" target="_blank">
+  <a href="https://vk.com/ilpolyan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=VK&logo=vk&label=&color=4A76A8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo"  />
   </a>
 </div>
 
-## ⚡ О себе
-Приветствую! Меня зовут Илья, и я начинающий web разработчик. 
-Моя страсть к веб-разработке и стремление создавать красивые и функциональные веб-приложения вдохновляют меня на изучение новых технологий и совершенствование моих навыков.
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/vanExsi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-🌱 В настоящее время я изучил JavaScript, HTML и CSS для создания интерактивных и отзывчивых пользовательских интерфейсов. 
-🌱 Помимо этого, я также изучил фреймворк Vue.js для разработки современных одностраничных приложений.
-🌱 Для разработки серверной логики и взаимодействия с базой данных изучил Node.js, Express, PHP, Laravel.
-🌱 Из баз данных изучил MySQL и MongoDB.
+ **<h3 align="left">🚀 Passionate backend developer, building reliable and scalable server-side applications. Skilled in database design, API development, and system architecture, with a strong focus on performance, security, and clean code.</h3>**
 
-🚀 Моя цель - стать опытным web разработчиком и внести свой вклад в развитие веб-технологий.
+ **<h3 align="left">Rapid Fire</h3>**
 
-⭐️ Если вам интересно мое портфолио или у вас есть предложения по сотрудничеству, не стесняйтесь связаться со мной!
+- 💼 I'm currently working on: **💻 Development of a new platform for hosting scripts using FastAPI**
+- 🌱 I'm currently learning: **📚 Studying FastAPI, Redis, CI/CD**
+- 💬 Ask me about: **💡 PHP, Laravel, Python, FastAPI, MySQL, PosgtreSQL and RESTful APIs**
+- ⚡ Fun fact: **🎢 I write cleaner code after my second cup of coffee**
 
-## ⚡ Мои навыки
-- **Языки программирования**: JavaScript, PHP, Pascal;
+ **<h3 align="left">Skills</h3>**
+- **Языки программирования**: JavaScript, PHP, Python;
 - **Верстка и стилизация**: HTML, CSS;
-- **Фреймворки**: Vue.js, Laravel;
-- **Серверная разработка**: Node.js, SQL, MySQL, Express.js, PHP, Laravel;
-- **Инструменты и технологии**: Git, npm, Docker, Kubernetes, Wordpress;
+- **Фреймворки**: Vue.js, Laravel, FastAPI;
+- **Серверная разработка**: Node.js, SQL, MySQL, Express.js, PHP, Laravel, FastAPI;
+- **Инструменты и технологии**: Git, npm, Docker, Wordpress;
 
-<h3 align="left">🛠 Технологии:</h3>
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="28" alt="PHP" style="margin-right: 4px"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="28" alt="Nginx" style="margin-right: 4px"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" style="margin-right: 4px"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript" style="margin-right: 4px"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="28" alt="Laravel" style="margin-right: 4px"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" alt="FastAPI" style="margin-right: 4px"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="28" alt="MySQL" style="margin-right: 4px"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="PostgreSQL" style="margin-right: 4px"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker" style="margin-right: 4px">
 </div>
 
